@@ -1,0 +1,7 @@
+{
+  "name": "TrafficWatch",
+  "description": "Real-time traffic monitoring and reporting platform for citizens and police authorities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
